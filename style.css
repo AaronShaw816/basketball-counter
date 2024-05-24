@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: rgb(1, 9, 122);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.score-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.team-side {
+    color: white;
+    background-color: black;
+    padding: 15px 50px;;
+    font-size: 35px;
+    border-color: white;
+    border-radius: 7px;
+    border-style: double;
+}
